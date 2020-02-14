@@ -1,2 +1,2 @@
-# git-skills
+# gitskills
 gitskills
